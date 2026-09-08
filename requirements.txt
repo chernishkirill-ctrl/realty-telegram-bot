@@ -1,0 +1,2 @@
+# The bot intentionally uses Python standard-library HTTP, SQLite, and URL tools.
+# Telegram API access is provided by the installed Replit connector bridge.

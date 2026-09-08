@@ -1,0 +1,2 @@
+- [Telegram connector bridge](telegram-connector-bridge.md) — Python SDK package unavailable in the current registry; Telegram API uses the official Node SDK bridge.
+- [Telegram channel WebApps](telegram-webapp-channel-routing.md) — channel posts cannot use inline `web_app`; use an HTTPS Mini WebApp URL and route it through the registered API path.

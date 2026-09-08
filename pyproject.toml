@@ -1,0 +1,6 @@
+[project]
+name = "realty-telegram-bot"
+version = "0.1.0"
+description = "Universal Telegram bot for real-estate listing parsing and lead routing"
+requires-python = ">=3.13"
+dependencies = []
